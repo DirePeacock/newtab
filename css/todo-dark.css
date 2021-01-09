@@ -1,0 +1,66 @@
+.edit-this-here-use-css2jstr-to-convert{
+    background-color: #000000 !important;
+}
+.docs-preview-palette-item {
+    border: transparent !important
+}
+.cell-input {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+.cell-input > span, .cell-input > font {
+    --darkreader-inline-color: ${white} !important;
+}
+.kix-cursor-caret {
+    border-color: #000000 !important;
+}
+.ia-invite-controls-area {
+    background-color: transparent !important
+}
+.docs-gm .docs-revisions-switch .apps-ui-material-slide-toggle-thumb {
+    background-color: rgb(43, 46, 48) !important;
+}
+.docs-gm .docs-revisions-switch.apps-ui-material-slide-toggle-container-checked .apps-ui-material-slide-toggle-thumb {
+    background-color: rgb(9, 64, 155) !important;
+}
+.docs-text-ui-cursor-blink {
+    fill: #000000 !important;
+}
+.ndfHFb-c4YZDc.ndfHFb-c4YZDc-i5oIFb .ndfHFb-c4YZDc-Bz112c:not([onclick]):not(:link):not(:visited) {
+    background-image: url('//ssl.gstatic.com/docs/common/viewer/v3/v-sprite26.svg') !important;
+}
+.docs-title-input-label:not([style*="pointer-events: auto"]) > #docs-title-input-label-inner {
+    visibility: hidden !important;
+}
+
+.docs-icon, 
+.punch-filmstrip-controls-icon,
+#docs-editor canvas,
+.docs-homescreen-icon,
+.kix-equation-toolbar-icon,
+.kix-equation-toolbar-palette-icon,
+.cell-input,
+.formula-content,
+.docs-instant-button-bubble-icon-container,
+.docs-gm .docs-dialog .modal-dialog-title-close::after,
+.docs-preview-palette-item,
+.goog-menuitem-checkbox,
+.goog-dimension-picker-unhighlighted,
+.goog-dimension-picker-highlighted,
+#docs-star,
+.rs-role-icon,
+.toggle-link-icon,
+.link-management-drop-down-icon,
+.vs-icon,
+.vpc-icon,
+.docs-analytics-img,
+.share-butter-copy-icon,
+.doc-previews-indicator-popover .docs-link-bubble-mime-icon,
+img[src$="googlelogo_dark_clr_74x24px.svg"],
+.exportUnderline,
+.freebirdMaterialIconIconEl,
+.quantumWizTogglePapercheckboxCheckMark,
+#docs-titlebar-share-client-button .scb-button-icon:not([class*="white"]),
+body[itemtype*="PresentationObject"] #docs-titlebar-share-client-button .scb-button-icon {
+    filter: invert(0.9)
+}
